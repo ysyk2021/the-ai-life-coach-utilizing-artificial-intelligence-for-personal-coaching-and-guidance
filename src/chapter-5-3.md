@@ -1,5 +1,4 @@
-Chapter 4: Managing Stress and Improving Mental Health with AI: Addressing Ethical Considerations in Using AI for Mental Health Support
-=======================================================================================================================================
+# Addressing Ethical Considerations in Using AI for Mental Health Support
 
 Artificial Intelligence (AI) technology has the potential to revolutionize how we approach mental health support by providing personalized recommendations and interventions. However, there are also ethical considerations that must be addressed to ensure responsible use of AI for mental health support. In this chapter, we will explore these ethical considerations.
 

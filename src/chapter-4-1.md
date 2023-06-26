@@ -1,5 +1,4 @@
-Chapter 3: Developing Positive Habits and Mindsets with Chatbots: Use of Chatbots for Developing Positive Habits and Mindsets, Including Personalized Affirmations and Gratitude Exercises
-==========================================================================================================================================================================================
+# Use of Chatbots for Developing Positive Habits and Mindsets, Including Personalized Affirmations and Gratitude Exercises
 
 Artificial intelligence (AI) has the potential to revolutionize the way we approach personal coaching and guidance. In this chapter, we will explore how chatbots can be used to develop positive habits and mindsets, including personalized affirmations and gratitude exercises.
 
