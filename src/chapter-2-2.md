@@ -1,5 +1,4 @@
-Types of AI: Natural Language Processing, Machine Learning, and Deep Learning
-===========================================================================================================================================
+
 
 Artificial intelligence (AI) is a complex field that encompasses several different technologies. In this chapter, we will explore three types of AI that are particularly relevant to personal coaching and guidance: natural language processing, machine learning, and deep learning.
 
