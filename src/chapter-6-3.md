@@ -1,5 +1,4 @@
 
-
 As AI technology is increasingly used to enhance relationships and social connections, it is important to address ethical considerations to ensure that individuals receive fair and unbiased support. In this chapter, we will discuss ethical considerations in using AI for relationship enhancement.
 
 Potential Biases in AI Algorithms

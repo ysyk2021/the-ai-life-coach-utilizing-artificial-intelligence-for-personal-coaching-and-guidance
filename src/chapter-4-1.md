@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) has the potential to revolutionize the way we approach personal coaching and guidance. In this chapter, we will explore how chatbots can be used to develop positive habits and mindsets, including personalized affirmations and gratitude exercises.
 
 What are Chatbots?
