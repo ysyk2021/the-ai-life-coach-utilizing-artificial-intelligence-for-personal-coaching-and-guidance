@@ -37,3 +37,4 @@
   - [Ensuring transparency and accountability in AI adoption for personal growth and fulfillment](chapter-9-3.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)
