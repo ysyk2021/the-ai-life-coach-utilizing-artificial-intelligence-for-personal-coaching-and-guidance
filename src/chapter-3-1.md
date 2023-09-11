@@ -1,5 +1,4 @@
-Chapter: Use of AI for Setting and Tracking Progress Towards Personal Goals
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

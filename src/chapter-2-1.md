@@ -1,5 +1,4 @@
-Chapter: Explanation of AI Technology and its Capabilities for Personal Coaching and Guidance
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

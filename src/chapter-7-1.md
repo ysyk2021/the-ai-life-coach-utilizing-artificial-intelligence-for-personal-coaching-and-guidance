@@ -1,5 +1,4 @@
-Chapter: Use of AI for Improving Physical Health and Wellness, Including Personalized Nutrition and Fitness Plans
-=================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

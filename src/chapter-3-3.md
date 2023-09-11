@@ -1,5 +1,4 @@
-Chapter: Addressing Potential Challenges and Ethical Considerations in Using AI for Goal Setting and Tracking
-=============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

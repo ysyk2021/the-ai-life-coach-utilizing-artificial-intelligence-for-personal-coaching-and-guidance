@@ -1,5 +1,4 @@
-Chapter: Use of AI for Enhancing Personal Creativity and Self-Expression, Including Creative Idea Generation and Design Assistance
-==================================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
